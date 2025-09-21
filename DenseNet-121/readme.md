@@ -62,6 +62,8 @@ This will:
 
 ## Outputs
 
+<output = "https://www.kaggle.com/code/sudeshrpatil/densenet-121-by-mlops?scriptVersionId=263202384" <a>
+
 * CSV/JSON Results: `outputs/benchmark_results.csv`, `outputs/benchmark_results.json`
 * Saved Models: `outputs/models/`
 * TensorBoard Logs: `outputs/tensorboard_logs/`
